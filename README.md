@@ -11,15 +11,14 @@ This repository contains a Laravel project integrated with Tailwind CSS. Follow 
 -   MySQL
 
 ## Installation
-
 1. Clone the repository to your local machine:
-
+2. Setelah di clone masuk ke folder lalu jalankan:
     - composer install
     - npm install
     - php artisan key:generate
     - php artisan migrate --seed
 
-2. Jalankan:
+3. Jalankan:
     - php artisan serve
     - npm run dev
 
